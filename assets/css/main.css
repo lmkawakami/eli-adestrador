@@ -2400,3 +2400,22 @@ body.is-touch .main {
 .texto-capa {
   font-weight: 100;
 }
+
+.contato {
+  width: 25vw;
+}
+
+.icone-contato {
+  font-size: 3em;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#icones-contato {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+
+.fotos {
+  border: 15px solid rgb(255, 255, 255);
+}

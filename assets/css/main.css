@@ -2437,4 +2437,5 @@ body.is-touch .main {
 #logo {
   margin-left: 1em;
   height: 2.5em;
+  max-width: 90vw;
 }
